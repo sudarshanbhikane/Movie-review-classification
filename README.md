@@ -19,6 +19,11 @@ The "Movie Review Classification" project focuses on classifying movie reviews a
 - UiPath Action Center
 - EnglishTextClassification ML model 
 
+### Dependencies 
+- UiPath.MLServices.Activities
+- UiPath.Persistence.Activities
+- UiPath.FormActivityLibrary
+
 ### Installation
 
 1. Clone the repository:
