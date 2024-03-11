@@ -43,9 +43,7 @@ The "Movie Review Classification" project focuses on classifying movie reviews a
 
 If you'd like to contribute to the project, please follow the [contribution guidelines](CONTRIBUTING.md).
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
